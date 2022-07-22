@@ -1,4 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Subodh, a Senior Undergraduate @ IIT Kanpur
+
+
+
+
+- 🌱 I’m currently exploring Frontend development and and .....
+- 📫 You can reach out to me through email: ksubodh20@iitk.ac.in
+- Keep calm and do coding⚡ 
+<br>
+
+![Subodh's github stats](https://github-readme-stats.vercel.app/api?username=shivam-iitk)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<br>
+
+
+![](https://komarev.com/ghpvc/?username=shivam-iitk)
+
 
 <!--
 **shivam-iitk/shivam-iitk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
