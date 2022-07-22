@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Subodh, a Senior Undergraduate @ IIT Kanpur
+### Hi there 👋 
+I'm Subodh, a Senior Undergraduate @ IIT Kanpur
 
 
 
