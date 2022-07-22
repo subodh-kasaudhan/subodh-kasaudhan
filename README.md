@@ -4,7 +4,7 @@ I'm Subodh, a Senior Undergraduate @ IIT Kanpur
 
 
 
-- 🌱 I’m currently exploring Frontend development and and .....
+- 🌱 I’m currently exploring Frontend development
 - 📫 You can reach out to me through email: ksubodh20@iitk.ac.in
 - Keep calm and do coding⚡ 
 <br>
