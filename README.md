@@ -26,11 +26,11 @@ I'm Subodh, a Senior Undergraduate @ IIT Kanpur
 
 <br />
 
-[website]: https://home.iitk.ac.in/~sahilsingh20/
-[twitter]: https://twitter.com/SahilSi92947385
-[facebook]: https://www.facebook.com/profile.php?id=100055710708389
-[instagram]: https://www.instagram.com/sahil.void/
-[linkedin]: https://www.linkedin.com/in/sahil-singh-618bb31ba/
+[website]: https://home.iitk.ac.in/~ksubodh20/
+[twitter]: https://twitter.com/shivamiitk_
+[facebook]: https://www.facebook.com/shivmiitk
+[instagram]: https://www.instagram.com/shivamiitk/
+[linkedin]: https://www.linkedin.com/in/shivamiitk/
 
 <!--
 **shivam-iitk/shivam-iitk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
