@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Subodh, a Pre-final year undergraduate @ IIT Kanpur
+I'm Subodh, a Final year undergraduate @ IIT Kanpur
 
 
 
