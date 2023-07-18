@@ -9,12 +9,12 @@ I'm Subodh, a Final year undergraduate @ IIT Kanpur
 - Keep calm and do coding⚡ 
 <br>
 
-![Subodh's github stats](https://github-readme-stats.vercel.app/api?username=shivam-iitk)
+![Subodh's github stats](https://github-readme-stats.vercel.app/api?username=subodh-kasaudhan)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 <br>
 
 
-![](https://komarev.com/ghpvc/?username=shivam-iitk)
+![](https://komarev.com/ghpvc/?username=subodh-kasaudhan)
 
 ### Connect with me:
 
@@ -30,10 +30,10 @@ I'm Subodh, a Final year undergraduate @ IIT Kanpur
 [twitter]: https://twitter.com/shivamiitk_
 [facebook]: https://www.facebook.com/shivmiitk
 [instagram]: https://www.instagram.com/shivamiitk/
-[linkedin]: https://www.linkedin.com/in/shivamiitk/
+[linkedin]: https://www.linkedin.com/in/subodh-kasaudhan/
 
 <!--
-**shivam-iitk/shivam-iitk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**subodh-kasaudhan/subodh-kasaudhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
