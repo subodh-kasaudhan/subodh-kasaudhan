@@ -10,7 +10,7 @@ I'm Subodh, a Final year undergraduate @ IIT Kanpur
 <br>
 
 ![Subodh's github stats](https://github-readme-stats.vercel.app/api?username=subodh-kasaudhan)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subodh-kasaudhan&layout=compact)
 <br>
 
 
