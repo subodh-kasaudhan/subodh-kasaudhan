@@ -3,13 +3,12 @@ I'm Subodh, a Final year undergraduate @ IIT Kanpur
 
 
 
-
 - 🌱 I’m currently exploring Full stack development
 - 📫 You can reach out to me through email: ksubodh20@iitk.ac.in
 - Keep calm and do coding⚡ 
 <br>
 
-![Subodh's github stats](https://github-readme-stats.vercel.app/api?username=subodh-kasaudhan)
+ <! -- ![Subodh's github stats](https://github-readme-stats.vercel.app/api?username=subodh-kasaudhan) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subodh-kasaudhan&layout=compact)
 <br>
 
