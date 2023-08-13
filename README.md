@@ -4,7 +4,7 @@ I'm Subodh, a Final year undergraduate @ IIT Kanpur
 
 
 - 🌱 I’m currently exploring Full stack development
-- 📫 You can reach out to me through email: ksubodh20@iitk.ac.in
+- 📫 You can reach out to me through email: kasaudhan.subodh@gmail.com
 - Keep calm and do coding⚡ 
 <be>
 
