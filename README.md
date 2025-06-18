@@ -18,7 +18,7 @@ I'm Subodh, a Software Developer👨‍💻 who is actively looking for opportun
 
 ### 🌐 Connect with Me
 
-[![Homepage](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=FirefoxBrowser&logoColor=white)]([https://yourwebsite.com](https://subodh-kasaudhan.github.io/Portfolio/))
+[![Homepage](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=FirefoxBrowser&logoColor=white)](https://subodh-kasaudhan.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subodh-kasaudhan/)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/shivmiitk)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shivamiitk_)
