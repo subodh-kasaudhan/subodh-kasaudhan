@@ -1,6 +1,5 @@
 ### Hi there 👋 
 I'm Subodh, a Software Developer👨‍💻 who is actively looking for opportunities to learn and build cool stuffs🚀
-I graduated from IIT Kanpur in 2024.
 
 
 
