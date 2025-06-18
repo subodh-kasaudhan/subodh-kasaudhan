@@ -15,6 +15,17 @@ I'm Subodh, a Software Developer👨‍💻 who is actively looking for opportun
 
 ![](https://komarev.com/ghpvc/?username=subodh-kasaudhan)
 
+
+### 🌐 Connect with Me
+
+[![Homepage](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=FirefoxBrowser&logoColor=white)]([https://yourwebsite.com](https://subodh-kasaudhan.github.io/Portfolio/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/subodh-kasaudhan/)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/shivmiitk)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shivamiitk_)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/subodh_kasaudhan_/)
+
+
+<!--
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" color="blue" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -31,7 +42,7 @@ I'm Subodh, a Software Developer👨‍💻 who is actively looking for opportun
 [instagram]: https://www.instagram.com/subodh_kasaudhan_/
 [linkedin]: https://www.linkedin.com/in/subodh-kasaudhan/
 
-<!--
+
 **subodh-kasaudhan/subodh-kasaudhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
