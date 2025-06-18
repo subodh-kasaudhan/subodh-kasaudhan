@@ -1,5 +1,6 @@
 ### Hi there 👋 
-I'm Subodh, a Final year undergraduate @ IIT Kanpur
+I'm Subodh, a Software Developer👨‍💻 who is actively looking for opportunities to learn and build cool stuffs🚀
+I graduated from IIT Kanpur in 2024.
 
 
 
@@ -25,10 +26,10 @@ I'm Subodh, a Final year undergraduate @ IIT Kanpur
 
 <br />
 
-[website]: https://home.iitk.ac.in/~ksubodh20/
+[website]: https://subodh-kasaudhan.github.io/Portfolio/
 [twitter]: https://twitter.com/shivamiitk_
 [facebook]: https://www.facebook.com/shivmiitk
-[instagram]: https://www.instagram.com/shivamiitk/
+[instagram]: https://www.instagram.com/subodh_kasaudhan_/
 [linkedin]: https://www.linkedin.com/in/subodh-kasaudhan/
 
 <!--
